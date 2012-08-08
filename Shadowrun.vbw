@@ -1,0 +1,7 @@
+frmMain = 88, 88, 481, 468, Z, 66, 66, 459, 446, C
+frmBlankNPC = -124, 54, 488, 539, C, 7, 5, 580, 393, C
+modSRCA = -208, 94, 461, 490, C
+frmLoadArchtype = -35, 59, 527, 447, C, 22, 22, 414, 410, C
+frmStats = -87, 133, 486, 538, C, 41, 6, 614, 411, C
+frmTakeMissileDamage = 0, 0, 392, 354, C, 110, 110, 502, 464, C
+frmMissileAttack = 0, 0, 392, 354, C, 132, 132, 524, 486, C
